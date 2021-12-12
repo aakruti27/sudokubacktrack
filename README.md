@@ -15,3 +15,7 @@ In order to show how the code is working, I have used basic **pygame** to visual
 **3. sudokusol()**- this takes the sudoku matrix as in argument and then calls the other functions one by one. 
 
 **4. drawgrd()**- this includes the pygame part of the whole program. This function draws the grid for sudoku and also writes the currently checking digit on the canvas as the program runs, so the user can understand the working of the algorithm.  
+
+
+![2021-12-12](https://user-images.githubusercontent.com/52568409/145719795-3e8df220-e602-472b-98c8-5fabb70ce22a.png)
+![2021-12-12 (1)](https://user-images.githubusercontent.com/52568409/145719798-596295c0-cc40-4e86-9eda-973cbcfca950.png)
